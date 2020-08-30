@@ -12,32 +12,46 @@
 *How do I make a character?* Easy. Simply "Log On", select the server you wish to play on and select "Civilian".
 2. Now that you are in the "Civilian" section, you can do all of the following:
 
-> Create a Character
+```
+Create a Character
+```
 Click the "plus" on the left pane to show the Civ-Creation popup. Now fill out the information as prompted.
 
-> Department of Motorvehicles
+```
+Department of Motorvehicles
+```
 1. Click on your character of choice's name followed by: "DMV" - Set your driver's license status by clicking the dropdown box presented
 2. Register a vehicle of your choice
 
-> Firearms
+```
+Firearms
+```
 1. Click on your character of choice's name followed by: "FIREARMS" - Set your firearms license status by clicking the dropdown box presented
 2. Register a weapon of your choice
 
-> Tickets
+```
+Tickets
+```
 1. Click on your character of choice's name followed by: "TICKETS"
 2. Options:
     a) Pay for your tickets (the cost thereof will be deducted from your account)
     b) View your ticket history
 
-> Offences
+```
+Offences
+```
 1. Click on your character of choice's name followed by: "OFFENCES"
 2. View your offence history
 
-> Purchases
+```
+Purchases
+```
 1. Click on your character of choice's name followed by: "PURCHASES"
 2. View your vehicular purchase history from the onlinestore
 
-> Bank
+```
+Bank
+```
 1. Click on your character of choice's name followed by: "BANK"
   a) Account Management - *Withdraw and deposit cash to and from the bank*
   b) Balance - *View your cash and bank statistics*
