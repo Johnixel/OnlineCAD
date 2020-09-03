@@ -63,7 +63,7 @@ Bank
 
 
 
-**Admin - Get Started**
+## Admin - Getting Started
 Navigate to "Admin Panel"
 
 Now you can access the following:
